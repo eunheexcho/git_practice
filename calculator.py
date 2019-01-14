@@ -12,3 +12,7 @@ def multiply(p, q):
 
 def div_2(x, y):
     x // y
+
+def div(a, b):
+    return a / b
+
