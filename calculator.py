@@ -9,3 +9,6 @@ def minus(i, j):
 
 def multiply(p, q):
     return p * q
+
+def div(a, b):
+    return a / b
